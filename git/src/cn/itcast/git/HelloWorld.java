@@ -7,5 +7,6 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("使用IDEA第一次使用Git提交");
+        System.out.println("使用IDEA第二次使用Git提交");
     }
 }
